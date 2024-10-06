@@ -1,0 +1,9 @@
+body {
+    background-image: url("../fondo.jpg");
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+   }
+div {
+    max-width: 500px;
+    margin: auto;
+}
